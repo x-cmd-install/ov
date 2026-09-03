@@ -1,0 +1,58 @@
+about:
+  description: 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+  license: MIT
+  homepage: https://noborus.github.io/ov
+  head: cb48ea7
+  archived: false
+  latestVersion: v0.54.0
+  collectedAt: 2026-09-03T04:14:42Z
+timeline:
+  created: 2020-03-22
+  lastCommit: 2026-09-01
+  lastRelease: 2026-07-12
+popularity:
+  star: 2013
+  watcher: 5
+  fork: 48
+  release: 81
+  contributor: 22
+  pullRequest: 64
+  issue: 120
+language:
+  Go: 904935
+  Makefile: 597
+  Shell: 144
+totalLine: 905676
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 14
+    openPR: 1
+    closedIssue: 1
+    openIssue: 3
+    commit: 16
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 61
+    openPR: 3
+    closedIssue: 1
+    openIssue: 4
+    commit: 82
+  last180d:
+    since: 2026-03-07
+    release: 3
+    mergedPR: 127
+    openPR: 3
+    closedIssue: 4
+    openIssue: 4
+    commit: 179
+  last360d:
+    since: 2025-09-08
+    release: 12
+    mergedPR: 251
+    openPR: 3
+    closedIssue: 13
+    openIssue: 6
+    commit: 340
