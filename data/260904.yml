@@ -7,7 +7,7 @@ about:
   head: bc19ec1
   archived: false
   latestVersion: v0.54.0
-  collectedAt: 2026-09-04T19:28:56Z
+  collectedAt: 2026-09-04T21:08:31Z
 timeline:
   created: 2020-03-22
   lastCommit: 2026-09-04
@@ -82,6 +82,49 @@ total:
   openIssue: 26
   commit: 2739
 ---
+path: /home/runner/.x-repo/github.com/noborus/ov
+collectedAt: 2026-09-04T21:08:32Z
+loc:
+  Go:
+    code: 32786
+    comments: 2360
+    blanks: 2553
+    files: 119
+  Yaml:
+    code: 645
+    comments: 134
+    blanks: 18
+    files: 3
+  Makefile:
+    code: 21
+    comments: 0
+    blanks: 10
+    files: 1
+  Svg:
+    code: 16
+    comments: 9
+    blanks: 3
+    files: 1
+  Zsh:
+    code: 3
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1395
+    blanks: 539
+    files: 2
+  Text:
+    code: 0
+    comments: 1012626
+    blanks: 50
+    files: 19
+total:
+  code: 33637
+  comments: 1016526
+  blanks: 3176
+  files: 146
 ---
 date: "2026-08-24"
 repo:
