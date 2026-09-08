@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6778271,
       "digest": "sha256:175632710e20f30147e4acbf74f612a91205604522907621b7dc38542c6890f8",
-      "download_count": 90,
+      "download_count": 91,
       "created_at": "2026-07-12T06:25:57Z",
       "updated_at": "2026-07-12T06:25:58Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_386.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 6850451,
       "digest": "sha256:877297f8746807cfd29ab970764a25ea15971544faa0db004d223d3984ef2da5",
-      "download_count": 464,
+      "download_count": 465,
       "created_at": "2026-07-12T06:25:56Z",
       "updated_at": "2026-07-12T06:25:57Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_amd64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 6269658,
       "digest": "sha256:77b8d719ebc28bd4ca5b2203c9168bad238cfc84855e0b3ce00110927c09ab9d",
-      "download_count": 100,
+      "download_count": 101,
       "created_at": "2026-07-12T06:25:58Z",
       "updated_at": "2026-07-12T06:25:58Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_arm64.zip"
