@@ -18,7 +18,7 @@ Total: **33,489** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 32,804 | 2,377 | 2,560 | 119 |
+| Go | 32,804 | 2,383 | 2,560 | 119 |
 | Yaml | 645 | 134 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 954 · **Open PRs**: 4 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2748
+- **Releases**: 81 · **Merged PRs**: 955 · **Open PRs**: 5 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 14 | 2 | 3 | 0 | 18 |
-| last60d | 2026-07-13 | 0 | 32 | 2 | 3 | 3 | 41 |
-| 90d | 2026-06-13 | 1 | 57 | 3 | 3 | 3 | 72 |
-| last180d | 2026-03-15 | 3 | 123 | 4 | 5 | 3 | 175 |
-| 360d | 2025-09-16 | 12 | 252 | 4 | 14 | 5 | 339 |
-| last720d | 2024-09-21 | 21 | 428 | 4 | 41 | 13 | 1043 |
+| 30d | 2026-08-12 | 0 | 15 | 3 | 3 | 0 | 19 |
+| last60d | 2026-07-13 | 0 | 33 | 3 | 3 | 3 | 42 |
+| 90d | 2026-06-13 | 1 | 58 | 4 | 3 | 3 | 73 |
+| last180d | 2026-03-15 | 3 | 124 | 5 | 5 | 3 | 176 |
+| 360d | 2025-09-16 | 12 | 253 | 5 | 14 | 5 | 340 |
+| last720d | 2024-09-21 | 21 | 429 | 5 | 41 | 13 | 1045 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:54:03Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:55:12Z._
