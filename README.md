@@ -4,7 +4,7 @@
 
 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 
-![ov](https://repo.x-cmd.io/ov.svg)
+[![x-cmd/install — ov Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ov.svg)](https://x-cmd.com/install/ov)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **33,658** lines of code across **125** files in the top 5 languages.
+Total: **33,522** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 32,973 | 2,387 | 2,562 | 119 |
+| Go | 32,837 | 2,386 | 2,558 | 119 |
 | Yaml | 645 | 134 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.54.0` (2026-07-12)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-20
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 2,021 · **Forks**: 50 · **Open issues**: 121 · **Contributors**: 22
+- **Stars**: 2,022 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 959 · **Open PRs**: 3 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2758
+- **Releases**: 81 · **Merged PRs**: 962 · **Open PRs**: 4 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2765
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 12 | 0 | 3 | 0 | 14 |
-| last60d | 2026-07-20 | 0 | 33 | 1 | 3 | 3 | 42 |
-| 90d | 2026-06-20 | 1 | 56 | 1 | 3 | 3 | 71 |
-| last180d | 2026-03-22 | 3 | 122 | 3 | 5 | 3 | 173 |
-| 360d | 2025-09-23 | 11 | 252 | 3 | 13 | 5 | 339 |
-| last720d | 2024-09-28 | 21 | 432 | 3 | 40 | 13 | 1051 |
+| 30d | 2026-08-21 | 0 | 15 | 1 | 3 | 0 | 15 |
+| last60d | 2026-07-22 | 0 | 35 | 2 | 3 | 3 | 38 |
+| 90d | 2026-06-22 | 1 | 58 | 2 | 3 | 3 | 70 |
+| last180d | 2026-03-24 | 3 | 121 | 4 | 5 | 3 | 175 |
+| 360d | 2025-09-25 | 11 | 254 | 4 | 13 | 5 | 339 |
+| last720d | 2024-09-30 | 21 | 434 | 4 | 40 | 13 | 1056 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:06:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:58:45Z._
