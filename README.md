@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **33,525** lines of code across **125** files in the top 5 languages.
+Total: **33,579** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 32,840 | 2,386 | 2,558 | 119 |
+| Go | 32,894 | 2,392 | 2,564 | 119 |
 | Yaml | 645 | 134 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.54.0` (2026-07-12)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 2,023 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
+- **Stars**: 2,024 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 963 · **Open PRs**: 5 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2767
+- **Releases**: 81 · **Merged PRs**: 965 · **Open PRs**: 4 · **Closed issues**: 96 · **Open issues**: 25 · **Commits**: 2776
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 16 | 2 | 3 | 0 | 16 |
-| last60d | 2026-07-23 | 0 | 36 | 3 | 3 | 3 | 39 |
-| 90d | 2026-06-23 | 1 | 59 | 3 | 3 | 3 | 71 |
-| last180d | 2026-03-25 | 3 | 122 | 5 | 5 | 3 | 176 |
-| 360d | 2025-09-26 | 11 | 254 | 5 | 13 | 5 | 340 |
-| last720d | 2024-10-01 | 21 | 435 | 5 | 40 | 13 | 1058 |
+| 30d | 2026-08-23 | 0 | 17 | 1 | 3 | 0 | 23 |
+| last60d | 2026-07-24 | 0 | 38 | 2 | 3 | 3 | 46 |
+| 90d | 2026-06-24 | 1 | 60 | 2 | 3 | 3 | 78 |
+| last180d | 2026-03-26 | 3 | 124 | 4 | 5 | 3 | 183 |
+| 360d | 2025-09-27 | 11 | 256 | 4 | 13 | 5 | 347 |
+| last720d | 2024-10-02 | 21 | 437 | 4 | 40 | 13 | 1066 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:12:50Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:23Z._
