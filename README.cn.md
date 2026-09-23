@@ -4,7 +4,7 @@
 
 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 
-[![x-cmd/install — ov Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ov.svg?lang=zh)](https://x-cmd.com/install/ov)
+[![x-cmd/install — ov Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ov.svg?lang=zh)](https://x-cmd.com/install/ov)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install ov
 
 ## 代码洞察
 
-合计: **33,579** 行代码（覆盖前 5 种语言、共 **125** 个文件）。
+合计: **33,649** 行代码（覆盖前 5 种语言、共 **125** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 32,894 | 2,392 | 2,564 | 119 |
+| Go | 32,964 | 2,392 | 2,570 | 119 |
 | Yaml | 645 | 134 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -52,18 +52,18 @@ x install ov
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 965 · **开放 PR**: 4 · **已关闭 issue**: 96 · **开放 issue**: 25 · **提交数**: 2776
+- **发布数**: 81 · **已合并 PR**: 966 · **开放 PR**: 3 · **已关闭 issue**: 96 · **开放 issue**: 25 · **提交数**: 2779
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 17 | 1 | 3 | 0 | 23 |
-| last60d | 2026-07-24 | 0 | 38 | 2 | 3 | 3 | 46 |
-| 90d | 2026-06-24 | 1 | 60 | 2 | 3 | 3 | 78 |
-| last180d | 2026-03-26 | 3 | 124 | 4 | 5 | 3 | 183 |
-| 360d | 2025-09-27 | 11 | 256 | 4 | 13 | 5 | 347 |
-| last720d | 2024-10-02 | 21 | 437 | 4 | 40 | 13 | 1066 |
+| 30d | 2026-08-24 | 0 | 18 | 0 | 3 | 0 | 25 |
+| last60d | 2026-07-25 | 0 | 37 | 1 | 3 | 3 | 48 |
+| 90d | 2026-06-25 | 1 | 59 | 1 | 3 | 3 | 80 |
+| last180d | 2026-03-27 | 3 | 125 | 3 | 5 | 3 | 185 |
+| 360d | 2025-09-28 | 11 | 257 | 3 | 13 | 5 | 349 |
+| last720d | 2024-10-03 | 21 | 438 | 3 | 40 | 13 | 1069 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ ov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:05:24Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:10:51Z._
