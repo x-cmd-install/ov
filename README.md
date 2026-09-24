@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,024 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
+- **Stars**: 2,025 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 18 | 0 | 3 | 0 | 25 |
-| last60d | 2026-07-25 | 0 | 37 | 1 | 3 | 3 | 48 |
-| 90d | 2026-06-25 | 1 | 59 | 1 | 3 | 3 | 80 |
-| last180d | 2026-03-27 | 3 | 125 | 3 | 5 | 3 | 185 |
-| 360d | 2025-09-28 | 11 | 257 | 3 | 13 | 5 | 349 |
-| last720d | 2024-10-03 | 21 | 438 | 3 | 40 | 13 | 1069 |
+| 30d | 2026-08-25 | 0 | 17 | 0 | 1 | 0 | 25 |
+| last60d | 2026-07-26 | 0 | 37 | 1 | 3 | 3 | 48 |
+| 90d | 2026-06-26 | 1 | 59 | 1 | 3 | 3 | 80 |
+| last180d | 2026-03-28 | 3 | 125 | 3 | 5 | 3 | 185 |
+| 360d | 2025-09-29 | 11 | 254 | 3 | 13 | 5 | 349 |
+| last720d | 2024-10-04 | 21 | 438 | 3 | 40 | 13 | 1069 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:10:50Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:36:45Z._
