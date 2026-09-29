@@ -14,12 +14,12 @@ x install ov
 
 ## 代码洞察
 
-合计: **33,962** 行代码（覆盖前 5 种语言、共 **127** 个文件）。
+合计: **33,990** 行代码（覆盖前 5 种语言、共 **127** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 33,277 | 2,425 | 2,611 | 121 |
-| Yaml | 645 | 134 | 18 | 3 |
+| Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
 | Zsh | 3 | 1 | 1 | 1 |
@@ -42,8 +42,8 @@ x install ov
 
 ## 发布
 
-- **最新版本**: `v0.54.0` (2026-07-12)
-- **最近提交**: 2026-09-28
+- **最新版本**: `v0.55.0` (2026-09-29)
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 22 个
 
 ## 流行度
@@ -52,45 +52,45 @@ x install ov
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 970 · **开放 PR**: 4 · **已关闭 issue**: 96 · **开放 issue**: 25 · **提交数**: 2792
+- **发布数**: 82 · **已合并 PR**: 974 · **开放 PR**: 3 · **已关闭 issue**: 97 · **开放 issue**: 24 · **提交数**: 2802
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 21 | 1 | 1 | 0 | 34 |
-| last60d | 2026-07-30 | 0 | 37 | 2 | 3 | 2 | 51 |
-| 90d | 2026-06-30 | 1 | 60 | 2 | 3 | 3 | 80 |
-| last180d | 2026-04-01 | 3 | 128 | 4 | 5 | 3 | 188 |
-| 360d | 2025-10-03 | 11 | 258 | 4 | 13 | 5 | 350 |
-| last720d | 2024-10-08 | 21 | 442 | 4 | 38 | 13 | 1082 |
+| 30d | 2026-08-30 | 1 | 25 | 0 | 1 | 0 | 40 |
+| last60d | 2026-07-31 | 1 | 40 | 1 | 4 | 1 | 57 |
+| 90d | 2026-07-01 | 2 | 62 | 1 | 4 | 2 | 86 |
+| last180d | 2026-04-02 | 4 | 131 | 3 | 5 | 2 | 194 |
+| 360d | 2025-10-04 | 12 | 262 | 3 | 14 | 4 | 356 |
+| last720d | 2024-10-09 | 22 | 445 | 3 | 39 | 12 | 1092 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ov-0.54.0-1.aarch64.rpm](https://github.com/noborus/ov/releases/download/v0.54.0/ov-0.54.0-1.aarch64.rpm) | 5.8 MiB | `runtime/rpm/aarch64` |
-| [ov-0.54.0-1.armv6hl.rpm](https://github.com/noborus/ov/releases/download/v0.54.0/ov-0.54.0-1.armv6hl.rpm) | 6.0 MiB | `other` |
-| [ov-0.54.0-1.i386.rpm](https://github.com/noborus/ov/releases/download/v0.54.0/ov-0.54.0-1.i386.rpm) | 6.3 MiB | `other` |
-| [ov-0.54.0-1.x86_64.rpm](https://github.com/noborus/ov/releases/download/v0.54.0/ov-0.54.0-1.x86_64.rpm) | 6.4 MiB | `runtime/rpm/x86_64` |
-| [ov-0.54.0.tar.gz](https://github.com/noborus/ov/releases/download/v0.54.0/ov-0.54.0.tar.gz) | 7.4 MiB | `native/unknown` |
-| [ov_0.54.0_amd64.deb](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_amd64.deb) | 6.4 MiB | `runtime/deb/amd64` |
-| [ov_0.54.0_arm64.deb](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_arm64.deb) | 5.9 MiB | `runtime/deb/arm64` |
-| [ov_0.54.0_armhf.deb](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_armhf.deb) | 6.0 MiB | `runtime/deb/armhf` |
-| [ov_0.54.0_checksums.txt](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_checksums.txt) | 1.8 KiB | `other` |
-| [ov_0.54.0_darwin_amd64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_darwin_amd64.zip) | 6.6 MiB | `native/darwin/x64` |
-| [ov_0.54.0_darwin_arm64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_darwin_arm64.zip) | 6.2 MiB | `native/darwin/arm64` |
-| [ov_0.54.0_freebsd_386.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_freebsd_386.zip) | 6.1 MiB | `other` |
-| [ov_0.54.0_freebsd_amd64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_freebsd_amd64.zip) | 6.2 MiB | `other` |
-| [ov_0.54.0_freebsd_arm64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_freebsd_arm64.zip) | 5.7 MiB | `other` |
-| [ov_0.54.0_i386.deb](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_i386.deb) | 6.3 MiB | `runtime/deb/i386` |
-| [ov_0.54.0_linux_386.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_linux_386.zip) | 6.3 MiB | `other` |
-| [ov_0.54.0_linux_amd64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_linux_amd64.zip) | 6.4 MiB | `native/linux/x64` |
-| [ov_0.54.0_linux_arm.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_linux_arm.zip) | 6.1 MiB | `native/linux/arm` |
-| [ov_0.54.0_linux_arm64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_linux_arm64.zip) | 5.9 MiB | `native/linux/arm64` |
-| [ov_0.54.0_windows_386.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_386.zip) | 6.5 MiB | `native/win/x64` |
-| [ov_0.54.0_windows_amd64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_amd64.zip) | 6.5 MiB | `native/win/x64` |
-| [ov_0.54.0_windows_arm64.zip](https://github.com/noborus/ov/releases/download/v0.54.0/ov_0.54.0_windows_arm64.zip) | 6.0 MiB | `native/win/arm64` |
+| [ov-0.55.0-1.aarch64.rpm](https://github.com/noborus/ov/releases/download/v0.55.0/ov-0.55.0-1.aarch64.rpm) | 6.4 MiB | `runtime/rpm/aarch64` |
+| [ov-0.55.0-1.armv6hl.rpm](https://github.com/noborus/ov/releases/download/v0.55.0/ov-0.55.0-1.armv6hl.rpm) | 6.7 MiB | `other` |
+| [ov-0.55.0-1.i386.rpm](https://github.com/noborus/ov/releases/download/v0.55.0/ov-0.55.0-1.i386.rpm) | 6.9 MiB | `other` |
+| [ov-0.55.0-1.x86_64.rpm](https://github.com/noborus/ov/releases/download/v0.55.0/ov-0.55.0-1.x86_64.rpm) | 7.0 MiB | `runtime/rpm/x86_64` |
+| [ov-0.55.0.tar.gz](https://github.com/noborus/ov/releases/download/v0.55.0/ov-0.55.0.tar.gz) | 11.6 MiB | `native/unknown` |
+| [ov_0.55.0_amd64.deb](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_amd64.deb) | 7.0 MiB | `runtime/deb/amd64` |
+| [ov_0.55.0_arm64.deb](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_arm64.deb) | 6.4 MiB | `runtime/deb/arm64` |
+| [ov_0.55.0_armhf.deb](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_armhf.deb) | 6.7 MiB | `runtime/deb/armhf` |
+| [ov_0.55.0_checksums.txt](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_checksums.txt) | 1.8 KiB | `other` |
+| [ov_0.55.0_darwin_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_darwin_amd64.zip) | 7.2 MiB | `native/darwin/x64` |
+| [ov_0.55.0_darwin_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_darwin_arm64.zip) | 6.8 MiB | `native/darwin/arm64` |
+| [ov_0.55.0_freebsd_386.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_freebsd_386.zip) | 6.8 MiB | `other` |
+| [ov_0.55.0_freebsd_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_freebsd_amd64.zip) | 6.9 MiB | `other` |
+| [ov_0.55.0_freebsd_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_freebsd_arm64.zip) | 6.3 MiB | `other` |
+| [ov_0.55.0_i386.deb](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_i386.deb) | 6.9 MiB | `runtime/deb/i386` |
+| [ov_0.55.0_linux_386.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_386.zip) | 6.9 MiB | `other` |
+| [ov_0.55.0_linux_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_amd64.zip) | 7.0 MiB | `native/linux/x64` |
+| [ov_0.55.0_linux_arm.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_arm.zip) | 6.7 MiB | `native/linux/arm` |
+| [ov_0.55.0_linux_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_arm64.zip) | 6.4 MiB | `native/linux/arm64` |
+| [ov_0.55.0_windows_386.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_386.zip) | 7.1 MiB | `native/win/x64` |
+| [ov_0.55.0_windows_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_amd64.zip) | 7.2 MiB | `native/win/x64` |
+| [ov_0.55.0_windows_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_arm64.zip) | 6.5 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -101,4 +101,4 @@ ov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:22:50Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:46:08Z._
