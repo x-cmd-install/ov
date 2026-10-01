@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **33,990** lines of code across **127** files in the top 5 languages.
+Total: **33,997** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,277 | 2,425 | 2,611 | 121 |
+| Go | 33,284 | 2,427 | 2,614 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -26,11 +26,11 @@ Total: **33,990** lines of code across **127** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 974 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2802
+- **Releases**: 82 · **Merged PRs**: 975 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 25 | 0 | 1 | 0 | 40 |
-| last60d | 2026-08-01 | 1 | 39 | 1 | 4 | 1 | 57 |
-| 90d | 2026-07-02 | 2 | 61 | 1 | 4 | 2 | 86 |
-| last180d | 2026-04-03 | 4 | 131 | 3 | 5 | 2 | 194 |
-| 360d | 2025-10-05 | 12 | 262 | 3 | 14 | 4 | 356 |
-| last720d | 2024-10-10 | 22 | 445 | 3 | 39 | 12 | 1088 |
+| 30d | 2026-09-01 | 1 | 26 | 0 | 1 | 0 | 41 |
+| last60d | 2026-08-02 | 1 | 40 | 1 | 4 | 1 | 58 |
+| 90d | 2026-07-03 | 2 | 60 | 1 | 4 | 2 | 87 |
+| last180d | 2026-04-04 | 4 | 132 | 3 | 5 | 2 | 195 |
+| 360d | 2025-10-06 | 12 | 262 | 3 | 13 | 4 | 357 |
+| last720d | 2024-10-11 | 22 | 445 | 3 | 38 | 12 | 1090 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:33:38Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:47:53Z._
