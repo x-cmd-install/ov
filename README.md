@@ -18,7 +18,7 @@ Total: **33,997** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,284 | 2,427 | 2,614 | 121 |
+| Go | 33,284 | 2,438 | 2,614 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 975 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2804
+- **Releases**: 82 · **Merged PRs**: 976 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 26 | 1 | 1 | 0 | 41 |
-| last60d | 2026-08-03 | 1 | 40 | 2 | 4 | 1 | 58 |
-| 90d | 2026-07-04 | 2 | 60 | 2 | 4 | 2 | 87 |
-| last180d | 2026-04-05 | 4 | 132 | 4 | 5 | 2 | 195 |
-| 360d | 2025-10-07 | 12 | 260 | 4 | 13 | 4 | 357 |
-| last720d | 2024-10-12 | 22 | 445 | 4 | 38 | 12 | 1089 |
+| 30d | 2026-09-03 | 1 | 26 | 0 | 0 | 0 | 42 |
+| last60d | 2026-08-04 | 1 | 41 | 1 | 4 | 1 | 59 |
+| 90d | 2026-07-05 | 2 | 60 | 1 | 4 | 2 | 88 |
+| last180d | 2026-04-06 | 4 | 129 | 3 | 5 | 2 | 196 |
+| 360d | 2025-10-08 | 12 | 259 | 3 | 13 | 4 | 358 |
+| last720d | 2024-10-13 | 22 | 446 | 3 | 38 | 12 | 1091 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:28:14Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:13:10Z._
