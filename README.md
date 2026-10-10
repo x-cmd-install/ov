@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **34,039** lines of code across **127** files in the top 5 languages.
+Total: **34,122** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,326 | 2,439 | 2,620 | 121 |
+| Go | 33,409 | 2,438 | 2,632 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 979 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2812
+- **Releases**: 82 · **Merged PRs**: 980 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2815
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 26 | 1 | 0 | 0 | 39 |
-| last60d | 2026-08-10 | 1 | 40 | 2 | 3 | 0 | 57 |
-| 90d | 2026-07-11 | 2 | 59 | 2 | 4 | 2 | 80 |
-| last180d | 2026-04-12 | 4 | 131 | 4 | 5 | 2 | 196 |
-| 360d | 2025-10-14 | 11 | 260 | 4 | 13 | 4 | 357 |
-| last720d | 2024-10-19 | 22 | 448 | 4 | 38 | 12 | 1094 |
+| 30d | 2026-09-10 | 1 | 26 | 1 | 0 | 0 | 41 |
+| last60d | 2026-08-11 | 1 | 40 | 2 | 3 | 0 | 59 |
+| 90d | 2026-07-12 | 2 | 58 | 2 | 4 | 2 | 82 |
+| last180d | 2026-04-13 | 4 | 129 | 4 | 4 | 2 | 198 |
+| 360d | 2025-10-15 | 11 | 260 | 4 | 13 | 4 | 359 |
+| last720d | 2024-10-20 | 22 | 449 | 4 | 38 | 12 | 1097 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:00:05Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:43:34Z._
