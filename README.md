@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,034 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
+- **Stars**: 2,035 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 981 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2817
+- **Releases**: 82 · **Merged PRs**: 981 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 24 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 1 | 41 | 1 | 3 | 0 | 0 |
-| 90d | 2026-07-13 | 1 | 59 | 1 | 4 | 2 | 0 |
-| last180d | 2026-04-14 | 4 | 127 | 3 | 4 | 2 | 0 |
-| 360d | 2025-10-16 | 11 | 261 | 3 | 13 | 4 | 0 |
-| last720d | 2024-10-21 | 22 | 450 | 3 | 38 | 12 | 1099 |
+| 30d | 2026-09-12 | 1 | 24 | 1 | 0 | 0 | 37 |
+| last60d | 2026-08-13 | 1 | 41 | 2 | 3 | 0 | 51 |
+| 90d | 2026-07-14 | 1 | 59 | 2 | 4 | 2 | 82 |
+| last180d | 2026-04-15 | 4 | 125 | 4 | 4 | 2 | 190 |
+| 360d | 2025-10-17 | 11 | 261 | 4 | 13 | 4 | 357 |
+| last720d | 2024-10-22 | 22 | 450 | 4 | 38 | 12 | 1099 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:39:43Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:04:13Z._
