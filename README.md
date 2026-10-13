@@ -30,7 +30,7 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 2,035 · **Forks**: 53 · **Open issues**: 121 · **Contributors**: 23
+- **Stars**: 2,034 · **Forks**: 52 · **Open issues**: 121 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 981 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2817
+- **Releases**: 82 · **Merged PRs**: 982 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 24 · **Commits**: 2819
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 24 | 1 | 0 | 0 | 37 |
-| last60d | 2026-08-13 | 1 | 41 | 2 | 3 | 0 | 51 |
-| 90d | 2026-07-14 | 1 | 59 | 2 | 4 | 2 | 82 |
-| last180d | 2026-04-15 | 4 | 125 | 4 | 4 | 2 | 190 |
-| 360d | 2025-10-17 | 11 | 261 | 4 | 13 | 4 | 357 |
-| last720d | 2024-10-22 | 22 | 450 | 4 | 38 | 12 | 1099 |
+| 30d | 2026-09-13 | 1 | 24 | 0 | 0 | 0 | 38 |
+| last60d | 2026-08-14 | 1 | 42 | 1 | 3 | 0 | 52 |
+| 90d | 2026-07-15 | 1 | 60 | 1 | 4 | 2 | 83 |
+| last180d | 2026-04-16 | 4 | 126 | 3 | 4 | 2 | 191 |
+| 360d | 2025-10-18 | 11 | 262 | 3 | 12 | 4 | 358 |
+| last720d | 2024-10-23 | 22 | 451 | 3 | 38 | 12 | 1101 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:04:13Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:52:02Z._
