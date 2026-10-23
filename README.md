@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **34,281** lines of code across **127** files in the top 5 languages.
+Total: **34,310** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,568 | 2,438 | 2,643 | 121 |
+| Go | 33,597 | 2,438 | 2,644 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 2,044 · **Forks**: 53 · **Open issues**: 122 · **Contributors**: 23
+- **Stars**: 2,045 · **Forks**: 53 · **Open issues**: 122 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 985 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2825
+- **Releases**: 82 · **Merged PRs**: 986 · **Open PRs**: 3 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 19 | 1 | 0 | 1 | 25 |
-| last60d | 2026-08-23 | 1 | 37 | 1 | 3 | 1 | 52 |
-| 90d | 2026-07-24 | 1 | 58 | 2 | 4 | 3 | 77 |
-| last180d | 2026-04-25 | 3 | 123 | 4 | 4 | 3 | 185 |
-| 360d | 2025-10-27 | 11 | 258 | 4 | 12 | 5 | 354 |
-| last720d | 2024-11-01 | 22 | 447 | 4 | 36 | 13 | 1097 |
+| 30d | 2026-09-23 | 1 | 20 | 0 | 0 | 1 | 26 |
+| last60d | 2026-08-24 | 1 | 38 | 0 | 3 | 1 | 53 |
+| 90d | 2026-07-25 | 1 | 57 | 1 | 4 | 3 | 78 |
+| last180d | 2026-04-26 | 3 | 124 | 3 | 4 | 3 | 186 |
+| 360d | 2025-10-28 | 10 | 259 | 3 | 12 | 5 | 355 |
+| last720d | 2024-11-02 | 22 | 446 | 3 | 36 | 13 | 1095 |
 
 ## Release assets
 
@@ -92,6 +92,17 @@ Lowest-scoring checks:
 | [ov_0.55.0_windows_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_amd64.zip) | 7.2 MiB | `native/win/x64` |
 | [ov_0.55.0_windows_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_arm64.zip) | 6.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **37** distros on [repology.org](https://repology.org/project/ov). **7** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.55.0` | ✅ latest |
+| Fedora rawhide | `0.54.0` | ⚠️ outdated |
+| Nix unstable | `0.55.0` | ✅ latest |
+| Void | `0.54.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ov` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +112,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:31Z._
