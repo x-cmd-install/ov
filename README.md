@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 19 | 1 | 0 | 1 | 12 |
-| last60d | 2026-08-26 | 1 | 37 | 1 | 1 | 1 | 53 |
-| 90d | 2026-07-27 | 1 | 56 | 2 | 4 | 2 | 70 |
-| last180d | 2026-04-28 | 3 | 123 | 4 | 4 | 3 | 181 |
-| 360d | 2025-10-30 | 10 | 258 | 4 | 12 | 5 | 353 |
-| last720d | 2024-11-04 | 22 | 446 | 4 | 36 | 13 | 1091 |
+| 30d | 2026-09-26 | 1 | 18 | 1 | 0 | 1 | 12 |
+| last60d | 2026-08-27 | 1 | 37 | 1 | 1 | 1 | 53 |
+| 90d | 2026-07-28 | 1 | 55 | 2 | 4 | 2 | 70 |
+| last180d | 2026-04-29 | 3 | 123 | 4 | 4 | 3 | 181 |
+| 360d | 2025-10-31 | 10 | 258 | 4 | 12 | 5 | 353 |
+| last720d | 2024-11-05 | 22 | 446 | 4 | 35 | 13 | 1091 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:29:06Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:42:50Z._
