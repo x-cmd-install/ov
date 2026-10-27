@@ -26,11 +26,11 @@ x install ov
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,7 +48,7 @@ x install ov
 
 ## 流行度
 
-- **Star**: 2,044 · **Fork**: 53 · **开放 issue**: 122 · **贡献者**: 24
+- **Star**: 2,043 · **Fork**: 53 · **开放 issue**: 122 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install ov
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 18 | 1 | 0 | 1 | 12 |
-| last60d | 2026-08-27 | 1 | 37 | 1 | 1 | 1 | 53 |
-| 90d | 2026-07-28 | 1 | 55 | 2 | 4 | 2 | 70 |
-| last180d | 2026-04-29 | 3 | 123 | 4 | 4 | 3 | 181 |
-| 360d | 2025-10-31 | 10 | 258 | 4 | 12 | 5 | 353 |
-| last720d | 2024-11-05 | 22 | 446 | 4 | 35 | 13 | 1091 |
+| 30d | 2026-09-27 | 1 | 17 | 1 | 0 | 1 | 12 |
+| last60d | 2026-08-28 | 1 | 37 | 1 | 1 | 1 | 53 |
+| 90d | 2026-07-29 | 1 | 55 | 2 | 4 | 2 | 70 |
+| last180d | 2026-04-30 | 3 | 122 | 4 | 4 | 3 | 181 |
+| 360d | 2025-11-01 | 10 | 257 | 4 | 12 | 5 | 353 |
+| last720d | 2024-11-06 | 22 | 446 | 4 | 35 | 13 | 1091 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ ov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:42:51Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T06:09:36Z._
