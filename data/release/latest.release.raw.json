@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7349364,
       "digest": "sha256:1630090bf9c056e11d694870a20d63f1e95ff2d1c04f656cc297f7abdda8fb4f",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2026-09-29T04:04:54Z",
       "updated_at": "2026-09-29T04:04:54Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1892,
       "digest": "sha256:3ba861e4eb0a666a4a7949932bd72a3e6ab9cbc742174ef0854d55c1b47e8b34",
-      "download_count": 99,
+      "download_count": 105,
       "created_at": "2026-09-29T04:04:54Z",
       "updated_at": "2026-09-29T04:04:55Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_checksums.txt"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 7541025,
       "digest": "sha256:f890c73abbfa00c99a7a4403461682c2723506b1595646daed34ec07410bb06e",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2026-09-29T04:04:51Z",
       "updated_at": "2026-09-29T04:04:52Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_darwin_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7378798,
       "digest": "sha256:1f96c964fbba48b000ee4cba6ac9ba6d8ba322e0ccdcc2052501b96b4a989838",
-      "download_count": 580,
+      "download_count": 603,
       "created_at": "2026-09-29T04:04:51Z",
       "updated_at": "2026-09-29T04:04:52Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_amd64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6743810,
       "digest": "sha256:0e5912383ae65af84be274f26fc920d0f493b237d1256123c1d1384a2e5e542f",
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2026-09-29T04:04:51Z",
       "updated_at": "2026-09-29T04:04:52Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_linux_arm64.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 7481885,
       "digest": "sha256:3f17c3880450ba1afc52de24eb0cedca84e2fb44b96d017bbf86e88596670d91",
-      "download_count": 91,
+      "download_count": 97,
       "created_at": "2026-09-29T04:04:50Z",
       "updated_at": "2026-09-29T04:04:51Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_386.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7516754,
       "digest": "sha256:505dec78254094f8a5612b8fa7e6a6a42bdf4dc37c42a0d4dbd16bd62a57a8a4",
-      "download_count": 507,
+      "download_count": 515,
       "created_at": "2026-09-29T04:04:49Z",
       "updated_at": "2026-09-29T04:04:50Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_amd64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 6839099,
       "digest": "sha256:d01e637fef5b67940e23f385dce3359eda9b5d9477d2188bec1271c7d8742d41",
-      "download_count": 155,
+      "download_count": 157,
       "created_at": "2026-09-29T04:04:49Z",
       "updated_at": "2026-09-29T04:04:50Z",
       "browser_download_url": "https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_arm64.zip"
