@@ -1,17 +1,3 @@
-- repo: homebrew
-  srcname: ov
-  visiblename: ov
-  version: 0.55.0
-  origversion: null
-  status: newest
-  summary: Feature-rich terminal-based text viewer
-- repo: homebrew
-  srcname: ov
-  visiblename: ov
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Feature-rich terminal-based text viewer
 - repo: aur
   srcname: ov
   binname: ov
@@ -29,11 +15,11 @@
   binname: ov-bin
   visiblename: ov-bin
   version: 0.55.0
-  origversion: 0.55.0-1
+  origversion: 0.55.0-2
   status: newest
   summary: Feature-rich terminal-based text viewer. It is a so-called terminal pager.
   maintainers:
-    - fallback-mnt-aur@repology
+    - dominiquini@aur
   licenses:
     - MIT
 - repo: aur
@@ -113,22 +99,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.43.0
-  origversion: 0.43.0-1.fc41
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: ov
   binnames:
@@ -143,6 +113,22 @@
   summary: Feature-rich terminal-based text viewer
   licenses:
     - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.43.0
+  origversion: 0.43.0-1.fc41
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_42
@@ -179,22 +165,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.43.0
-  origversion: 0.43.0-1.fc43
-  status: legacy
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: ov
   binnames:
@@ -205,6 +175,22 @@
   version: 0.51.1
   origversion: 0.51.1-1.fc43
   status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.43.0
+  origversion: 0.43.0-1.fc43
+  status: legacy
   summary: Feature-rich terminal-based text viewer
   licenses:
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
@@ -288,6 +274,20 @@
     - MPL-2.0
   categories:
     - sys-apps
+- repo: homebrew
+  srcname: ov
+  visiblename: ov
+  version: 0.55.0
+  origversion: null
+  status: newest
+  summary: Feature-rich terminal-based text viewer
+- repo: homebrew
+  srcname: ov
+  visiblename: ov
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Feature-rich terminal-based text viewer
 - repo: liguros_stable
   srcname: sys-apps/ov
   visiblename: sys-apps/ov
