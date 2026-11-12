@@ -10,18 +10,6 @@
     - yhndnzj@aur
   licenses:
     - MIT
-- repo: freebsd
-  srcname: textproc/ov
-  binname: ov
-  visiblename: textproc/ov
-  version: 0.55.0
-  origversion: 0.55.0_2
-  status: newest
-  summary: Feature rich terminal pager
-  maintainers:
-    - tagattie@freebsd.org
-  categories:
-    - textproc
 - repo: aur
   srcname: ov-bin
   binname: ov-bin
@@ -111,6 +99,22 @@
   categories:
     - Unspecified
 - repo: fedora_41
+  subrepo: updates
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.43.0
+  origversion: 0.43.0-1.fc41
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_41
   subrepo: release
   srcname: ov
   binnames:
@@ -125,22 +129,6 @@
   summary: Feature-rich terminal-based text viewer
   licenses:
     - MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
-  subrepo: updates
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.43.0
-  origversion: 0.43.0-1.fc41
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_42
@@ -177,22 +165,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.43.0
-  origversion: 0.43.0-1.fc43
-  status: legacy
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: ov
   binnames:
@@ -208,18 +180,22 @@
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: nix_stable_24_05
+- repo: fedora_43
+  subrepo: release
   srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
   visiblename: ov
-  version: 0.34.1
-  origversion: null
-  status: outdated
+  version: 0.43.0
+  origversion: 0.43.0-1.fc43
+  status: legacy
   summary: Feature-rich terminal-based text viewer
-  maintainers:
-    - farcaller@gmail.com
-    - figsoda@pm.me
   licenses:
-    - MIT
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
 - repo: fedora_44
   subrepo: release
   srcname: ov
@@ -252,6 +228,18 @@
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: freebsd
+  srcname: textproc/ov
+  binname: ov
+  visiblename: textproc/ov
+  version: 0.55.0
+  origversion: 0.55.0_3
+  status: newest
+  summary: Feature rich terminal pager
+  maintainers:
+    - tagattie@freebsd.org
+  categories:
+    - textproc
 - repo: gentoo_ovl_guru
   srcname: sys-apps/ov
   visiblename: sys-apps/ov
@@ -382,6 +370,18 @@
     - MIT
   categories:
     - textproc
+- repo: nix_stable_24_05
+  srcname: ov
+  visiblename: ov
+  version: 0.34.1
+  origversion: null
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  maintainers:
+    - farcaller@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: ov
   visiblename: ov
@@ -468,7 +468,7 @@
   binname: ov
   visiblename: textproc/ov
   version: 0.54.0
-  origversion: 0.54.0nb6
+  origversion: 0.54.0nb7
   status: outdated
   summary: Feature-rich terminal-based text viewer
   maintainers:
