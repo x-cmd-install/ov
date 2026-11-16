@@ -132,22 +132,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.51.1
-  origversion: 0.51.1-1.fc42
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: ov
   binnames:
@@ -164,7 +148,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_42
   subrepo: updates
   srcname: ov
   binnames:
@@ -173,7 +157,7 @@
     - ov-debugsource
   visiblename: ov
   version: 0.51.1
-  origversion: 0.51.1-1.fc43
+  origversion: 0.51.1-1.fc42
   status: outdated
   summary: Feature-rich terminal-based text viewer
   licenses:
@@ -191,6 +175,22 @@
   version: 0.43.0
   origversion: 0.43.0-1.fc43
   status: legacy
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.51.1
+  origversion: 0.51.1-1.fc43
+  status: outdated
   summary: Feature-rich terminal-based text viewer
   licenses:
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
@@ -456,7 +456,7 @@
   binname: ov
   visiblename: textproc/ov
   version: 0.54.0
-  origversion: 0.54.0nb5
+  origversion: 0.54.0nb6
   status: outdated
   summary: Feature-rich terminal-based text viewer
   maintainers:
