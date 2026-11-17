@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 995 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2848
+- **Releases**: 82 · **Merged PRs**: 997 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2852
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 12 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-17 | 1 | 36 | 1 | 0 | 1 | 40 |
-| 90d | 2026-08-18 | 1 | 48 | 1 | 3 | 1 | 67 |
-| last180d | 2026-05-20 | 3 | 114 | 4 | 4 | 3 | 165 |
-| 360d | 2025-11-21 | 10 | 258 | 4 | 11 | 5 | 352 |
-| last720d | 2024-11-26 | 21 | 445 | 4 | 33 | 13 | 1089 |
+| 30d | 2026-10-18 | 0 | 14 | 1 | 0 | 0 | 14 |
+| last60d | 2026-09-18 | 1 | 37 | 1 | 0 | 1 | 42 |
+| 90d | 2026-08-19 | 1 | 50 | 1 | 3 | 1 | 69 |
+| last180d | 2026-05-21 | 3 | 115 | 4 | 4 | 3 | 167 |
+| 360d | 2025-11-22 | 10 | 260 | 4 | 11 | 5 | 354 |
+| last720d | 2024-11-27 | 21 | 447 | 4 | 33 | 13 | 1091 |
 
 ## Release assets
 
@@ -94,7 +94,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **37** distros on [repology.org](https://repology.org/project/ov). **8** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/ov). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,4 +112,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:16:30Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:30:48Z._
