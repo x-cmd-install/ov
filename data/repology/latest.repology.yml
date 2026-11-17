@@ -99,22 +99,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.43.0
-  origversion: 0.43.0-1.fc41
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: ov
   binnames:
@@ -129,6 +113,22 @@
   summary: Feature-rich terminal-based text viewer
   licenses:
     - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.43.0
+  origversion: 0.43.0-1.fc41
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_42
@@ -206,6 +206,22 @@
   visiblename: ov
   version: 0.51.1
   origversion: 0.51.1-1.fc44
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.54.0
+  origversion: 0.54.0-2.fc45
   status: outdated
   summary: Feature-rich terminal-based text viewer
   licenses:
