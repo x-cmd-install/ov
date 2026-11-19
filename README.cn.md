@@ -24,16 +24,6 @@ x install ov
 | Svg | 16 | 9 | 3 | 1 |
 | Zsh | 3 | 1 | 1 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.5 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/noborus/ov>
@@ -48,7 +38,7 @@ x install ov
 
 ## 流行度
 
-- **Star**: 2,052 · **Fork**: 53 · **开放 issue**: 122 · **贡献者**: 24
+- **Star**: 2,053 · **Fork**: 53 · **开放 issue**: 122 · **贡献者**: 24
 
 ## 累计统计
 
@@ -58,12 +48,12 @@ x install ov
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 14 | 1 | 0 | 0 | 14 |
-| last60d | 2026-09-18 | 1 | 37 | 1 | 0 | 1 | 42 |
-| 90d | 2026-08-19 | 1 | 50 | 1 | 3 | 1 | 69 |
-| last180d | 2026-05-21 | 3 | 115 | 4 | 4 | 3 | 167 |
-| 360d | 2025-11-22 | 10 | 260 | 4 | 11 | 5 | 354 |
-| last720d | 2024-11-27 | 21 | 447 | 4 | 33 | 13 | 1091 |
+| 30d | 2026-10-20 | 0 | 12 | 1 | 0 | 0 | 14 |
+| last60d | 2026-09-20 | 1 | 35 | 1 | 0 | 1 | 42 |
+| 90d | 2026-08-21 | 1 | 50 | 1 | 3 | 1 | 69 |
+| last180d | 2026-05-23 | 3 | 115 | 4 | 4 | 3 | 167 |
+| 360d | 2025-11-24 | 10 | 257 | 4 | 11 | 5 | 354 |
+| last720d | 2024-11-29 | 21 | 446 | 4 | 33 | 13 | 1091 |
 
 ## Release 资产
 
@@ -112,4 +102,4 @@ ov 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:30:49Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:50:28Z._
