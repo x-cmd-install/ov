@@ -48,12 +48,12 @@ Total: **34,437** lines of code across **127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 11 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 1 | 32 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-22 | 1 | 50 | 1 | 3 | 1 | 0 |
-| last180d | 2026-05-24 | 3 | 115 | 4 | 4 | 3 | 0 |
-| 360d | 2025-11-25 | 10 | 257 | 4 | 11 | 5 | 0 |
-| last720d | 2024-11-30 | 21 | 446 | 4 | 33 | 13 | 1090 |
+| 30d | 2026-10-22 | 0 | 11 | 1 | 0 | 0 | 14 |
+| last60d | 2026-09-22 | 1 | 31 | 1 | 0 | 1 | 42 |
+| 90d | 2026-08-23 | 1 | 49 | 1 | 3 | 1 | 69 |
+| last180d | 2026-05-25 | 3 | 113 | 4 | 4 | 3 | 167 |
+| 360d | 2025-11-26 | 10 | 254 | 4 | 11 | 5 | 354 |
+| last720d | 2024-12-01 | 21 | 446 | 4 | 33 | 13 | 1089 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:26:22Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:53:08Z._
