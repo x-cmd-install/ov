@@ -14,11 +14,11 @@ x install ov
 
 ## Code insight
 
-Total: **34,437** lines of code across **127** files in the top 5 languages.
+Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,724 | 2,454 | 2,668 | 121 |
+| Go | 33,731 | 2,454 | 2,668 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
@@ -33,7 +33,7 @@ Total: **34,437** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-21
 - **Assets in release**: 22
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **34,437** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 997 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2852
+- **Releases**: 82 · **Merged PRs**: 999 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 11 | 1 | 0 | 0 | 14 |
-| last60d | 2026-09-22 | 1 | 31 | 1 | 0 | 1 | 42 |
-| 90d | 2026-08-23 | 1 | 49 | 1 | 3 | 1 | 69 |
-| last180d | 2026-05-25 | 3 | 113 | 4 | 4 | 3 | 167 |
-| 360d | 2025-11-26 | 10 | 254 | 4 | 11 | 5 | 354 |
-| last720d | 2024-12-01 | 21 | 446 | 4 | 33 | 13 | 1089 |
+| 30d | 2026-10-23 | 0 | 13 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 1 | 33 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-24 | 1 | 51 | 1 | 3 | 1 | 0 |
+| last180d | 2026-05-26 | 2 | 115 | 4 | 4 | 3 | 0 |
+| 360d | 2025-11-27 | 10 | 254 | 4 | 11 | 5 | 0 |
+| last720d | 2024-12-02 | 21 | 447 | 4 | 33 | 13 | 1092 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Total: **34,437** lines of code across **127** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/ov). **8** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/ov). **13** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:53:08Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:53:17Z._
