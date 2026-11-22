@@ -1,3 +1,25 @@
+- repo: chimera
+  subrepo: user
+  srcname: ov
+  binname: ov-bashcomp
+  visiblename: ov-bashcomp
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: ov
+  binname: ov-doc
+  visiblename: ov-doc
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (documentation)
+  licenses:
+    - MIT
 - repo: aur
   srcname: ov
   binname: ov
@@ -47,21 +69,32 @@
   srcname: ov
   binname: ov
   visiblename: ov
-  version: 0.54.0
-  origversion: 0.54.0-r2
-  status: outdated
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
   summary: Terminal pager
   licenses:
     - MIT
 - repo: chimera
   subrepo: user
   srcname: ov
-  binname: ov-doc
-  visiblename: ov-doc
-  version: 0.54.0
-  origversion: 0.54.0-r2
-  status: outdated
-  summary: Terminal pager (documentation)
+  binname: ov-fishcomp
+  visiblename: ov-fishcomp
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (fish completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: ov
+  binname: ov-zshcomp
+  visiblename: ov-zshcomp
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (zsh completions)
   licenses:
     - MIT
 - repo: fedora_39
@@ -132,6 +165,22 @@
   categories:
     - Unspecified
 - repo: fedora_42
+  subrepo: updates
+  srcname: ov
+  binnames:
+    - ov
+    - ov-debuginfo
+    - ov-debugsource
+  visiblename: ov
+  version: 0.51.1
+  origversion: 0.51.1-1.fc42
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
   subrepo: release
   srcname: ov
   binnames:
@@ -146,22 +195,6 @@
   summary: Feature-rich terminal-based text viewer
   licenses:
     - MIT
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: updates
-  srcname: ov
-  binnames:
-    - ov
-    - ov-debuginfo
-    - ov-debugsource
-  visiblename: ov
-  version: 0.51.1
-  origversion: 0.51.1-1.fc42
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_43
