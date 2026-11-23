@@ -1,25 +1,15 @@
-- repo: chimera
-  subrepo: user
-  srcname: ov
-  binname: ov-bashcomp
-  visiblename: ov-bashcomp
-  version: 0.55.0
-  origversion: 0.55.0-r0
-  status: newest
-  summary: Terminal pager (bash completions)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: ov
-  binname: ov-doc
-  visiblename: ov-doc
-  version: 0.55.0
-  origversion: 0.55.0-r0
-  status: newest
-  summary: Terminal pager (documentation)
-  licenses:
-    - MIT
+- repo: pkgsrc_2026_2
+  srcname: textproc/ov
+  binname: ov
+  visiblename: textproc/ov
+  version: 0.53.0
+  origversion: 0.53.0nb1
+  status: outdated
+  summary: Feature-rich terminal-based text viewer
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - textproc
 - repo: aur
   srcname: ov
   binname: ov
@@ -73,6 +63,28 @@
   origversion: 0.55.0-r0
   status: newest
   summary: Terminal pager
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: ov
+  binname: ov-bashcomp
+  visiblename: ov-bashcomp
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: ov
+  binname: ov-doc
+  visiblename: ov-doc
+  version: 0.55.0
+  origversion: 0.55.0-r0
+  status: newest
+  summary: Terminal pager (documentation)
   licenses:
     - MIT
 - repo: chimera
@@ -269,9 +281,9 @@
     - ov-debuginfo
     - ov-debugsource
   visiblename: ov
-  version: 0.54.0
-  origversion: 0.54.0-2.fc45
-  status: outdated
+  version: 0.55.0
+  origversion: 0.55.0-1.fc46
+  status: newest
   summary: Feature-rich terminal-based text viewer
   licenses:
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0
@@ -488,18 +500,6 @@
     - zvttt9db@anonaddy.me
   licenses:
     - MIT
-- repo: pkgsrc_2026_2
-  srcname: textproc/ov
-  binname: ov
-  visiblename: textproc/ov
-  version: 0.53.0
-  origversion: 0.53.0nb1
-  status: outdated
-  summary: Feature-rich terminal-based text viewer
-  maintainers:
-    - schmonz@netbsd.org
-  categories:
-    - textproc
 - repo: pkgsrc_2026_3
   srcname: textproc/ov
   binname: ov
