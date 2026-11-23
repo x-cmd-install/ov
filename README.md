@@ -38,7 +38,7 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,052 · **Forks**: 53 · **Open issues**: 122 · **Contributors**: 24
+- **Stars**: 2,053 · **Forks**: 53 · **Open issues**: 122 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 13 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 1 | 33 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-24 | 1 | 51 | 1 | 3 | 1 | 0 |
-| last180d | 2026-05-26 | 2 | 115 | 4 | 4 | 3 | 0 |
-| 360d | 2025-11-27 | 10 | 254 | 4 | 11 | 5 | 0 |
-| last720d | 2024-12-02 | 21 | 447 | 4 | 33 | 13 | 1092 |
+| 30d | 2026-10-24 | 0 | 13 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-24 | 1 | 32 | 1 | 0 | 1 | 29 |
+| 90d | 2026-08-25 | 1 | 50 | 1 | 1 | 1 | 69 |
+| last180d | 2026-05-27 | 2 | 115 | 4 | 4 | 3 | 169 |
+| 360d | 2025-11-28 | 10 | 253 | 4 | 10 | 5 | 338 |
+| last720d | 2024-12-03 | 21 | 447 | 4 | 33 | 13 | 1090 |
 
 ## Release assets
 
@@ -84,12 +84,12 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/ov). **13** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/ov). **14** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.55.0` | ✅ latest |
-| Fedora rawhide | `0.54.0` | ⚠️ outdated |
+| Fedora rawhide | `0.55.0` | ✅ latest |
 | Nix unstable | `0.55.0` | ✅ latest |
 | Void | `0.54.0` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:53:17Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:43:44Z._
