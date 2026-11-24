@@ -33,7 +33,7 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 22
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 999 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2856
+- **Releases**: 82 · **Merged PRs**: 1001 · **Open PRs**: 5 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2860
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 13 | 0 | 0 | 0 | 15 |
-| last60d | 2026-09-24 | 1 | 32 | 1 | 0 | 1 | 29 |
-| 90d | 2026-08-25 | 1 | 50 | 1 | 1 | 1 | 69 |
-| last180d | 2026-05-27 | 2 | 115 | 4 | 4 | 3 | 169 |
-| 360d | 2025-11-28 | 10 | 253 | 4 | 10 | 5 | 338 |
-| last720d | 2024-12-03 | 21 | 447 | 4 | 33 | 13 | 1090 |
+| 30d | 2026-10-25 | 0 | 15 | 1 | 0 | 0 | 17 |
+| last60d | 2026-09-25 | 1 | 34 | 2 | 0 | 1 | 31 |
+| 90d | 2026-08-26 | 1 | 52 | 2 | 1 | 1 | 71 |
+| last180d | 2026-05-28 | 2 | 117 | 5 | 4 | 3 | 171 |
+| 360d | 2025-11-29 | 10 | 252 | 5 | 10 | 5 | 340 |
+| last720d | 2024-12-04 | 21 | 449 | 5 | 33 | 13 | 1094 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:43:44Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:13:18Z._
