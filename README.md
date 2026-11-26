@@ -14,15 +14,25 @@ x install ov
 
 ## Code insight
 
-Total: **34,444** lines of code across **127** files in the top 5 languages.
+Total: **34,474** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,731 | 2,454 | 2,668 | 121 |
+| Go | 33,761 | 2,457 | 2,668 | 121 |
 | Yaml | 673 | 140 | 18 | 3 |
 | Makefile | 21 | 0 | 10 | 1 |
 | Svg | 16 | 9 | 3 | 1 |
 | Zsh | 3 | 1 | 1 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -33,7 +43,7 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.55.0` (2026-09-29)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 22
 
 ## Popularity
@@ -42,18 +52,18 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1001 · **Open PRs**: 5 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2860
+- **Releases**: 82 · **Merged PRs**: 1002 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 25 · **Commits**: 2863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 15 | 1 | 0 | 0 | 17 |
-| last60d | 2026-09-26 | 1 | 33 | 2 | 0 | 1 | 31 |
-| 90d | 2026-08-27 | 1 | 52 | 2 | 1 | 1 | 71 |
-| last180d | 2026-05-29 | 2 | 117 | 5 | 4 | 3 | 171 |
-| 360d | 2025-11-30 | 10 | 250 | 5 | 10 | 5 | 340 |
-| last720d | 2024-12-05 | 21 | 449 | 5 | 33 | 13 | 1094 |
+| 30d | 2026-10-27 | 0 | 16 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-27 | 1 | 33 | 1 | 0 | 1 | 33 |
+| 90d | 2026-08-28 | 1 | 53 | 1 | 1 | 1 | 73 |
+| last180d | 2026-05-30 | 2 | 118 | 4 | 4 | 3 | 173 |
+| 360d | 2025-12-01 | 10 | 247 | 4 | 10 | 5 | 342 |
+| last720d | 2024-12-06 | 21 | 450 | 4 | 33 | 13 | 1097 |
 
 ## Release assets
 
@@ -82,6 +92,17 @@ Total: **34,444** lines of code across **127** files in the top 5 languages.
 | [ov_0.55.0_windows_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_amd64.zip) | 7.2 MiB | `native/win/x64` |
 | [ov_0.55.0_windows_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_arm64.zip) | 6.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **41** distros on [repology.org](https://repology.org/project/ov). **14** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.55.0` | ✅ latest |
+| Fedora rawhide | `0.55.0` | ✅ latest |
+| Nix unstable | `0.55.0` | ✅ latest |
+| Void | `0.54.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ov` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +112,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:05Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:12:19Z._
