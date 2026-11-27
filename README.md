@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 16 | 0 | 0 | 0 | 19 |
-| last60d | 2026-09-27 | 1 | 33 | 1 | 0 | 1 | 33 |
-| 90d | 2026-08-28 | 1 | 53 | 1 | 1 | 1 | 73 |
-| last180d | 2026-05-30 | 2 | 118 | 4 | 4 | 3 | 173 |
-| 360d | 2025-12-01 | 10 | 247 | 4 | 10 | 5 | 342 |
-| last720d | 2024-12-06 | 21 | 450 | 4 | 33 | 13 | 1097 |
+| 30d | 2026-10-28 | 0 | 15 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-28 | 1 | 28 | 1 | 0 | 1 | 33 |
+| 90d | 2026-08-29 | 1 | 53 | 1 | 1 | 1 | 73 |
+| last180d | 2026-05-31 | 2 | 118 | 4 | 4 | 3 | 173 |
+| 360d | 2025-12-02 | 10 | 245 | 4 | 10 | 5 | 342 |
+| last720d | 2024-12-07 | 21 | 450 | 4 | 33 | 13 | 1097 |
 
 ## Release assets
 
@@ -92,17 +92,6 @@ Lowest-scoring checks:
 | [ov_0.55.0_windows_amd64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_amd64.zip) | 7.2 MiB | `native/win/x64` |
 | [ov_0.55.0_windows_arm64.zip](https://github.com/noborus/ov/releases/download/v0.55.0/ov_0.55.0_windows_arm64.zip) | 6.5 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **41** distros on [repology.org](https://repology.org/project/ov). **14** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.55.0` | ✅ latest |
-| Fedora rawhide | `0.55.0` | ✅ latest |
-| Nix unstable | `0.55.0` | ✅ latest |
-| Void | `0.54.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ov` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -112,4 +101,4 @@ Install metadata for ov lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:12:19Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:17:36Z._
